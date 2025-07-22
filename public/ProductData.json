@@ -1,0 +1,803 @@
+[
+  
+  {
+    "name": "Virat Pro Bat 15",
+    "category": "Bat",
+    "image": " https://images.unsplash.com/photo-1630851278830-c0c9b12933ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYXRzfGVufDB8fDB8fHww",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Thousand loss blood.",
+    "price": "₹ 2393",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 4",
+    "category": "Helmet",
+    "image": "https://media.istockphoto.com/id/522183001/photo/confident-in-his-batting-ability.webp?a=1&b=1&s=612x612&w=0&k=20&c=_800-v5YkHU0hWAbqYiIdzA8lVQYpi-Ltd6iIoa8qJw=",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Foot man happen argue season thus central.",
+    "price": "₹ 1315",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 5",
+    "category": "Stump",
+    "image": "https://media.istockphoto.com/id/1459955387/photo/cricket-ball-hitting-wicket-stumps-knocking-bails-out.webp?a=1&b=1&s=612x612&w=0&k=20&c=yeC8Ds39I4diVXxjyyEkg_patXUwnYzEZ5e1w5WRmgk= ",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. That discuss too beyond. Deal able commercial wide.",
+    "price": "₹ 1835",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 6",
+    "category": "Ball",
+    "image": "https://images.unsplash.com/photo-1690111354184-cceee42df518?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Budget station music care difference.",
+    "price": "₹ 1395",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 8",
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmlrZSUyMHNob2VzfGVufDB8fDB8fHww ",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Hospital movie discuss get.",
+    "price": "₹ 4260",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 9",
+    "category": "Helmet",
+    "image": " https://images.unsplash.com/photo-1659081476962-df97acad7f1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNyaWNrZXQlMjBwbGF5ZXIlMjBoZWxtZXR8ZW58MHx8MHx8fDA%3D    ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. News power ok music food. All leg director stuff.",
+    "price": "₹ 5312",
+    "brand": "Virat Elite Series"
+  },
+   {
+    "name": "Virat Pro Kitbag 7",
+    "category": "Kitbag",
+    "image": "https://media.istockphoto.com/id/2187244508/photo/close-up-outdoor-trendy-fashion-sports-custom-nylon-crossbody-shoulder-strap-bag-medium-size.webp?a=1&b=1&s=612x612&w=0&k=20&c=DrO4yA90Bd_8_KNyfmV0EJdHPaIXTdfNUxslzm9aaXE=",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Guess billion total true without.",
+    "price": "₹ 3335",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 1",
+    "category": "Ball",
+    "image": "https://images.unsplash.com/photo-1743342875460-366f386a364a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Democrat any budget yourself total west down.",
+    "price": "₹ 1060",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 3",
+    "category": "Ball",
+    "image": "https://plus.unsplash.com/premium_photo-1677261482620-0274d223ef9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Stuff fall change like either team hope.",
+    "price": "₹ 3145",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 2",
+    "category": "Ball",
+    "image": "https://images.unsplash.com/photo-1602151831496-60a6c9520b52?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. And drop show represent wrong business.",
+    "price": "₹ 1507",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 10",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Image who letter their ahead yes.",
+    "price": "₹ 2896",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 11",
+    "category": "Shoes",
+    "image": " https://images.unsplash.com/photo-1656164061663-3dc536192fcb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Situation cup professional.",
+    "price": "₹ 5839",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 12",
+    "category": "Helmet",
+    "image": "https://plus.unsplash.com/premium_photo-1722122223764-4cc28ba48a48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3JpY2tldCUyMHBsYXllciUyMGhlbG1ldHxlbnwwfHwwfHx8MA%3D%3D           ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Far job of case process our.",
+    "price": "₹ 5791",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 13",
+    "category": "Helmet",
+    "image": "https://media.istockphoto.com/id/1479663632/photo/portrait-of-a-female-cricketer-holding-a-cricket-bat.webp?a=1&b=1&s=612x612&w=0&k=20&c=cH5ljRVE0EgXyFqPhRELtLGdjrBboxpA7Kvwnl9CYGI=  ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Whose accept special.",
+    "price": "₹ 3952",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 14",
+    "category": "Pad",
+    "image": " https://media.istockphoto.com/id/2178294317/photo/cricket-batsman-playing.webp?a=1&b=1&s=612x612&w=0&k=20&c=Kbm8CEa6RnRKY1ZjSM1Yem6fhU3Jmf2Or8dEzQcAsaQ=",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Role seven tonight discover.",
+    "price": "₹ 2023",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 16",
+    "category": "Pad",
+    "image": "  https://media.istockphoto.com/id/2178294317/photo/cricket-batsman-playing.webp?a=1&b=1&s=612x612&w=0&k=20&c=Kbm8CEa6RnRKY1ZjSM1Yem6fhU3Jmf2Or8dEzQcAsaQ=",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Design seem understand house little.",
+    "price": "₹ 4279",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 17",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/491945774/photo/close-up-of-cricket-batting-gloves.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYujqUaDgSnTcl82ORsbE8JZSs5WW57zWYhD64yF1-E=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Ok agency sit.",
+    "price": "₹ 3678",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 18",
+    "category": "Kitbag",
+    "image": "  https://images.unsplash.com/photo-1662771551016-ffacbfa356dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGtpdGJhZ3N8ZW58MHx8MHx8fDA%3D",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Social season red.",
+    "price": "₹ 4034",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 19",
+    "category": "Kitbag",
+    "image": "  https://plus.unsplash.com/premium_photo-1728307898273-9c6dd71b46d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGtpdGJhZ3N8ZW58MHx8MHx8fDA%3D",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Form not kid very.",
+    "price": "₹ 4250",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 20",
+    "category": "Bat",
+    "image": " https://plus.unsplash.com/premium_photo-1679690884114-4bcf8070e005?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYXRzfGVufDB8fDB8fHww",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Evidence still baby.",
+    "price": "₹ 3727",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 21",
+    "category": "Shoes",
+    "image": " https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmlrZSUyMHNob2VzfGVufDB8fDB8fHww ",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Him eight any agent.",
+    "price": "₹ 4998",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 22",
+    "category": "Helmet",
+    "image": "  https://media.istockphoto.com/id/1479663632/photo/portrait-of-a-female-cricketer-holding-a-cricket-bat.webp?a=1&b=1&s=612x612&w=0&k=20&c=cH5ljRVE0EgXyFqPhRELtLGdjrBboxpA7Kvwnl9CYGI=          ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Cut model kitchen hard turn local middle.",
+    "price": "₹ 3456",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 23",
+    "category": "Bat",
+    "image": "https://plus.unsplash.com/premium_photo-1679917563121-c851e0e2ef54?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Fill help foreign raise.",
+    "price": "₹ 4175",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 24",
+    "category": "Pad",
+    "image": "https://plus.unsplash.com/premium_photo-1722122215541-5c25d9f8e4d3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGNyaWNrZXQlMjBwYWR8ZW58MHx8MHx8fDA%3D",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Several increase make them live.",
+    "price": "₹ 2512",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 25",
+    "category": "Helmet",
+    "image": "https://media.istockphoto.com/id/1479663632/photo/portrait-of-a-female-cricketer-holding-a-cricket-bat.webp?a=1&b=1&s=612x612&w=0&k=20&c=cH5ljRVE0EgXyFqPhRELtLGdjrBboxpA7Kvwnl9CYGI=          ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Plant decide available hour type.",
+    "price": "₹ 3371",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 26",
+    "category": "Gloves",
+    "image": " https://plus.unsplash.com/premium_photo-1721963696886-9b4222b8e333?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y3JpY2tldCUyMGdsb3Zlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Head possible impact vote.",
+    "price": "₹ 5433",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 27",
+    "category": "Shoes",
+    "image": "  https://images.unsplash.com/photo-1696954895409-3a4c4e755e15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Fill economic describe manage.",
+    "price": "₹ 4063",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 28",
+    "category": "Kitbag",
+    "image": "https://media.istockphoto.com/id/1096953930/photo/open-sports-bag.webp?a=1&b=1&s=612x612&w=0&k=20&c=IT_xVlFWsN0fQmfWp4-DdnLy_Td53tW7UnS58g3kfdM=",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Common why over never international.",
+    "price": "₹ 5996",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 29",
+    "category": "Gloves",
+    "image": "  https://media.istockphoto.com/id/491945774/photo/close-up-of-cricket-batting-gloves.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYujqUaDgSnTcl82ORsbE8JZSs5WW57zWYhD64yF1-E=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Interview general size.",
+    "price": "₹ 3199",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 30",
+    "category": "Bat",
+    "image": " https://plus.unsplash.com/premium_photo-1679690884114-4bcf8070e005?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYXRzfGVufDB8fDB8fHww",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Material surface easy.",
+    "price": "₹ 3142",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 31",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Every morning effect per.",
+    "price": "₹ 1034",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 32",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/1249811051/photo/a-boy-in-cricket-uniform-and-wearing-keeper-gloves-with-hold-leather-ball-and-doing-practice.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ay8r1HVT4BjQQYCZN4SnhVqujlZpW5HHoh88JGDwHW0=    ",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Kid near ok more.",
+    "price": "₹ 1060",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 33",
+    "category": "Helmet",
+    "image": "  https://plus.unsplash.com/premium_photo-1722122222814-7f8349fe2ff4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNyaWNrZXQlMjBwbGF5ZXIlMjBoZWxtZXR8ZW58MHx8MHx8fDA%3D         ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Fire few her last check around since.",
+    "price": "₹ 3371",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 34",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Degree human summer huge as test.",
+    "price": "₹ 2970",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 35",
+    "category": "Ball",
+    "image": "https://images.unsplash.com/photo-1690111354184-cceee42df518?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Unit science fear plant consumer food.",
+    "price": "₹ 4277",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 36",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/1459955387/photo/cricket-ball-hitting-wicket-stumps-knocking-bails-out.webp?a=1&b=1&s=612x612&w=0&k=20&c=yeC8Ds39I4diVXxjyyEkg_patXUwnYzEZ5e1w5WRmgk=          ",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Off evidence while light drop also.",
+    "price": "₹ 4734",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 37",
+    "category": "Bat",
+    "image": " https://images.unsplash.com/photo-1630851278830-c0c9b12933ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYXRzfGVufDB8fDB8fHww",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Investment true five.",
+    "price": "₹ 5717",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 38",
+    "category": "Kitbag",
+    "image": "  https://images.unsplash.com/photo-1662771551016-ffacbfa356dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGtpdGJhZ3N8ZW58MHx8MHx8fDA%3D",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. How admit million lawyer.",
+    "price": "₹ 4643",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 39",
+    "category": "Shoes",
+    "image": "  https://images.unsplash.com/photo-1696954895409-3a4c4e755e15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Democratic scene later sign.",
+    "price": "₹ 5439",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 40",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/1489129175/photo/cricket-pitch-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=3TSgVVKpc5I-QrHiSYpj1yZkudD9MVGmeBvgC3ncnOM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Bed along person tax let. Movie people relate.",
+    "price": "₹ 4069",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 41",
+    "category": "Kitbag",
+    "image": " https://media.istockphoto.com/id/1096953930/photo/open-sports-bag.webp?a=1&b=1&s=612x612&w=0&k=20&c=IT_xVlFWsN0fQmfWp4-DdnLy_Td53tW7UnS58g3kfdM=",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Region from bring whose sister.",
+    "price": "₹ 5081",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 42",
+    "category": "Pad",
+    "image": "  https://media.istockphoto.com/id/494309418/photo/cricket-wicketkeeper-catching-a-ball-behind-stumps.webp?a=1&b=1&s=612x612&w=0&k=20&c=nfXYm48T45IDBE7U1_Y57P4jlgOTquDewdtdEcd5j0M=",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Once market cultural performance mission.",
+    "price": "₹ 2320",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 43",
+    "category": "Helmet",
+    "image": "https://media.istockphoto.com/id/522183001/photo/confident-in-his-batting-ability.webp?a=1&b=1&s=612x612&w=0&k=20&c=_800-v5YkHU0hWAbqYiIdzA8lVQYpi-Ltd6iIoa8qJw=",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Land central fight growth. More read order.",
+    "price": "₹ 3171",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 44",
+    "category": "Helmet",
+    "image": " https://plus.unsplash.com/premium_photo-1722122222814-7f8349fe2ff4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNyaWNrZXQlMjBwbGF5ZXIlMjBoZWxtZXR8ZW58MHx8MHx8fDA%3D         ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Glass none fear section.",
+    "price": "₹ 3191",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 45",
+    "category": "Bat",
+    "image": " https://images.unsplash.com/photo-1659081427664-be2a556ea019?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y3JpY2tldCUyMHBsYXllciUyMGJhdHN8ZW58MHx8MHx8fDA%3D",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Wall to close adult.",
+    "price": "₹ 3697",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 46",
+    "category": "Helmet",
+    "image": " https://plus.unsplash.com/premium_photo-1722122222814-7f8349fe2ff4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNyaWNrZXQlMjBwbGF5ZXIlMjBoZWxtZXR8ZW58MHx8MHx8fDA%3D         ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Take stage raise far author area between either.",
+    "price": "₹ 1239",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 47",
+    "category": "Ball",
+    "image": "https://plus.unsplash.com/premium_photo-1679917563121-c851e0e2ef54?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Eat he kitchen perhaps itself.",
+    "price": "₹ 4300",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 48",
+    "category": "Ball",
+    "image": "https://plus.unsplash.com/premium_photo-1721963697301-0ea48114e7f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D         ",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Exist life idea section north.",
+    "price": "₹ 4918",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 49",
+    "category": "Stump",
+    "image": "  https://media.istockphoto.com/id/2212071985/photo/close-up-of-wooden-cricket-stumps-on-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDYhdNtXx6xHsy7mXiXW6ZC9RAvInPjUo2uYC5UYNaM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Fall herself knowledge buy.",
+    "price": "₹ 4334",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 50",
+    "category": "Gloves",
+    "image": "   https://media.istockphoto.com/id/1394554731/photo/portrait-of-young-indian-boy-wearing-hand-gloves-and-getting-ready-for-cricket-game.webp?a=1&b=1&s=612x612&w=0&k=20&c=BiqHcNZyn50BvXaFnIkaHa9xt6mD9N63ixs7zqORpkY=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Fire name in see fear modern.",
+    "price": "₹ 1081",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 51",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/1320338920/photo/cricket-ball-hitting-the-stumps.webp?a=1&b=1&s=612x612&w=0&k=20&c=rnLNbuCQmCuWP5KC8Ry9vudPqs68m0vENQ34o8Gehqo=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Why between everything effort race before.",
+    "price": "₹ 5646",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 52",
+    "category": "Bat",
+    "image": "https://images.unsplash.com/photo-1659081427664-be2a556ea019?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y3JpY2tldCUyMHBsYXllciUyMGJhdHN8ZW58MHx8MHx8fDA%3D",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Sometimes until free.",
+    "price": "₹ 3774",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 53",
+    "category": "Ball",
+    "image": "  https://images.unsplash.com/photo-1690111354184-cceee42df518?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Audience because hospital every allow.",
+    "price": "₹ 2088",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 54",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/2212071985/photo/close-up-of-wooden-cricket-stumps-on-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDYhdNtXx6xHsy7mXiXW6ZC9RAvInPjUo2uYC5UYNaM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Response example board.",
+    "price": "₹ 3945",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 55",
+    "category": "Gloves",
+    "image": " https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. First billion reflect left well.",
+    "price": "₹ 3155",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 56",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/491945774/photo/close-up-of-cricket-batting-gloves.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYujqUaDgSnTcl82ORsbE8JZSs5WW57zWYhD64yF1-E=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Identify before within last born.",
+    "price": "₹ 4489",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 57",
+    "category": "Pad",
+    "image": "  https://media.istockphoto.com/id/2178294317/photo/cricket-batsman-playing.webp?a=1&b=1&s=612x612&w=0&k=20&c=Kbm8CEa6RnRKY1ZjSM1Yem6fhU3Jmf2Or8dEzQcAsaQ=",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Score identify natural finish.",
+    "price": "₹ 3696",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 58",
+    "category": "Stump",
+    "image": "   https://media.istockphoto.com/id/2212071985/photo/close-up-of-wooden-cricket-stumps-on-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDYhdNtXx6xHsy7mXiXW6ZC9RAvInPjUo2uYC5UYNaM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Ball meet realize body.",
+    "price": "₹ 3338",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 59",
+    "category": "Gloves",
+    "image": " https://media.istockphoto.com/id/1249811051/photo/a-boy-in-cricket-uniform-and-wearing-keeper-gloves-with-hold-leather-ball-and-doing-practice.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ay8r1HVT4BjQQYCZN4SnhVqujlZpW5HHoh88JGDwHW0=    ",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Leave no once too.",
+    "price": "₹ 4929",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 60",
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1556906781-9a412961c28c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Life fight seat.",
+    "price": "₹ 5230",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 61",
+    "category": "Ball",
+    "image": "  https://images.unsplash.com/photo-1724351965025-e75ee4f187e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Record rather wait professional door box.",
+    "price": "₹ 2587",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 62",
+    "category": "Gloves",
+    "image": "  https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Sometimes identify day.",
+    "price": "₹ 2108",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 63",
+    "category": "Gloves",
+    "image": "   https://plus.unsplash.com/premium_photo-1721963696886-9b4222b8e333?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y3JpY2tldCUyMGdsb3Zlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Miss land new five.",
+    "price": "₹ 3989",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 64",
+    "category": "Ball",
+    "image": "  https://images.unsplash.com/photo-1743342873510-55d49972b746?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Pretty red beautiful.",
+    "price": "₹ 4484",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 65",
+    "category": "Bat",
+    "image": "https://images.unsplash.com/photo-1593766821405-f605e0f9535f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JpY2tldCUyMHBsYXllciUyMGhlbG1ldHxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. No election describe.",
+    "price": "₹ 5616",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 66",
+    "category": "Shoes",
+    "image": " https://images.unsplash.com/photo-1696954895409-3a4c4e755e15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Notice network trial say of.",
+    "price": "₹ 1724",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 67",
+    "category": "Stump",
+    "image": "   https://media.istockphoto.com/id/2212071985/photo/close-up-of-wooden-cricket-stumps-on-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDYhdNtXx6xHsy7mXiXW6ZC9RAvInPjUo2uYC5UYNaM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Rather protect one station sound arrive.",
+    "price": "₹ 3104",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 68",
+    "category": "Bat",
+    "image": "https://media.istockphoto.com/id/886657224/photo/cricket-female-batsman-on-a-professional-arena.webp?a=1&b=1&s=612x612&w=0&k=20&c=1BZB96OaumECx7I20U53pvPhxe_6IdXaxum5Y3AOWZU=",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Article forward open.",
+    "price": "₹ 5352",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 69",
+    "category": "Ball",
+    "image": "https://plus.unsplash.com/premium_photo-1679917563121-c851e0e2ef54?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYWxsfGVufDB8fDB8fHww",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Feel this others himself treatment those.",
+    "price": "₹ 1582",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 70",
+    "category": "Kitbag",
+    "image": " https://media.istockphoto.com/id/1096953930/photo/open-sports-bag.webp?a=1&b=1&s=612x612&w=0&k=20&c=IT_xVlFWsN0fQmfWp4-DdnLy_Td53tW7UnS58g3kfdM=",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Need improve her positive.",
+    "price": "₹ 1264",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 71",
+    "category": "Pad",
+    "image": "       https://media.istockphoto.com/id/1394557034/photo/a-boy-walking-in-to-the-studio-during-a-match.webp?a=1&b=1&s=612x612&w=0&k=20&c=MP6En57LjAL49d_r2bIIgLMET173YsIRy5wnJNJACL8=",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Turn radio serve American dinner manage.",
+    "price": "₹ 2785",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 72",
+    "category": "Gloves",
+    "image": " https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Perhaps part us should station.",
+    "price": "₹ 1946",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 73",
+    "category": "Gloves",
+    "image": "  https://media.istockphoto.com/id/491945774/photo/close-up-of-cricket-batting-gloves.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYujqUaDgSnTcl82ORsbE8JZSs5WW57zWYhD64yF1-E=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Blood ball day job part fight.",
+    "price": "₹ 1231",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 74",
+    "category": "Shoes",
+    "image": " https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmlrZSUyMHNob2VzfGVufDB8fDB8fHww ",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Data allow always again and cut visit.",
+    "price": "₹ 1350",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 75",
+    "category": "Shoes",
+    "image": "  https://images.unsplash.com/photo-1556906781-9a412961c28c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Race health science tree administration.",
+    "price": "₹ 2598",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 76",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/1459955387/photo/cricket-ball-hitting-wicket-stumps-knocking-bails-out.webp?a=1&b=1&s=612x612&w=0&k=20&c=yeC8Ds39I4diVXxjyyEkg_patXUwnYzEZ5e1w5WRmgk=          ",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Unit yet political new.",
+    "price": "₹ 4367",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 77",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/2212071985/photo/close-up-of-wooden-cricket-stumps-on-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDYhdNtXx6xHsy7mXiXW6ZC9RAvInPjUo2uYC5UYNaM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Person pass different teach spend value information.",
+    "price": "₹ 1391",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 78",
+    "category": "Bat",
+    "image": "https://media.istockphoto.com/id/886657224/photo/cricket-female-batsman-on-a-professional-arena.webp?a=1&b=1&s=612x612&w=0&k=20&c=1BZB96OaumECx7I20U53pvPhxe_6IdXaxum5Y3AOWZU=",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Reflect source guy bar.",
+    "price": "₹ 4853",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 79",
+    "category": "Gloves",
+    "image": " https://media.istockphoto.com/id/491945774/photo/close-up-of-cricket-batting-gloves.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYujqUaDgSnTcl82ORsbE8JZSs5WW57zWYhD64yF1-E=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Why keep risk head structure.",
+    "price": "₹ 5868",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 80",
+    "category": "Gloves",
+    "image": "https://media.istockphoto.com/id/1292871489/photo/wicketkeeper-catching-cricket-ball.webp?a=1&b=1&s=612x612&w=0&k=20&c=3oZvbXepGH5diYzjphz-iFeljXD23sClPjZuBeRblqM=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Common daughter see.",
+    "price": "₹ 3755",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 81",
+    "category": "Kitbag",
+    "image": "  https://images.unsplash.com/photo-1662771551016-ffacbfa356dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGtpdGJhZ3N8ZW58MHx8MHx8fDA%3D",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. But red will in suffer.",
+    "price": "₹ 4376",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 82",
+    "category": "Stump",
+    "image": " https://media.istockphoto.com/id/1504476790/photo/cricket-wicket-stumps.webp?a=1&b=1&s=612x612&w=0&k=20&c=VzXyKYMmyV47S24YCXnsZ-lg5j5on95EqAkzBYfz4rM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Believe college lot face.",
+    "price": "₹ 4979",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 83",
+    "category": "Shoes",
+    "image": "  https://images.unsplash.com/photo-1696954895409-3a4c4e755e15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Himself action order.",
+    "price": "₹ 2383",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 84",
+    "category": "Pad",
+    "image": " https://media.istockphoto.com/id/2178294317/photo/cricket-batsman-playing.webp?a=1&b=1&s=612x612&w=0&k=20&c=Kbm8CEa6RnRKY1ZjSM1Yem6fhU3Jmf2Or8dEzQcAsaQ=",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Grow state memory president speak remain.",
+    "price": "₹ 1484",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 85",
+    "category": "Pad",
+    "image": " https://plus.unsplash.com/premium_photo-1722122215541-5c25d9f8e4d3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGNyaWNrZXQlMjBwYWR8ZW58MHx8MHx8fDA%3D",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Color think foot bring.",
+    "price": "₹ 1292",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 86",
+    "category": "Kitbag",
+    "image": " https://media.istockphoto.com/id/1096953930/photo/open-sports-bag.webp?a=1&b=1&s=612x612&w=0&k=20&c=IT_xVlFWsN0fQmfWp4-DdnLy_Td53tW7UnS58g3kfdM=",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Fact weight send once nothing.",
+    "price": "₹ 1971",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 87",
+    "category": "Gloves",
+    "image": " https://media.istockphoto.com/id/491945774/photo/close-up-of-cricket-batting-gloves.webp?a=1&b=1&s=612x612&w=0&k=20&c=mYujqUaDgSnTcl82ORsbE8JZSs5WW57zWYhD64yF1-E=",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Trade me term admit entire back.",
+    "price": "₹ 4291",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Kitbag 88",
+    "category": "Kitbag",
+    "image": " https://media.istockphoto.com/id/2187244508/photo/close-up-outdoor-trendy-fashion-sports-custom-nylon-crossbody-shoulder-strap-bag-medium-size.webp?a=1&b=1&s=612x612&w=0&k=20&c=DrO4yA90Bd_8_KNyfmV0EJdHPaIXTdfNUxslzm9aaXE=",
+    "description": "Spacious and durable kitbag with multiple compartments, trolley wheels, and padded straps for comfortable travel. Air tonight find.",
+    "price": "₹ 1360",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 89",
+    "category": "Ball",
+    "image": " https://images.unsplash.com/photo-1743342873510-55d49972b746?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Determine above push that.",
+    "price": "₹ 5035",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 90",
+    "category": "Helmet",
+    "image": "https://media.istockphoto.com/id/522183001/photo/confident-in-his-batting-ability.webp?a=1&b=1&s=612x612&w=0&k=20&c=_800-v5YkHU0hWAbqYiIdzA8lVQYpi-Ltd6iIoa8qJw=",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Final American task today store office economic.",
+    "price": "₹ 3219",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 91",
+    "category": "Bat",
+    "image": "  https://images.unsplash.com/photo-1630851278830-c0c9b12933ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNyaWNrZXQlMjBwbGF5ZXIlMjBiYXRzfGVufDB8fDB8fHww",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Yeah network them.",
+    "price": "₹ 2127",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Stump 92",
+    "category": "Stump",
+    "image": "     https://media.istockphoto.com/id/1489129175/photo/cricket-pitch-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=3TSgVVKpc5I-QrHiSYpj1yZkudD9MVGmeBvgC3ncnOM=",
+    "description": "Premium wooden stumps with bails, perfect for practice sessions and professional matches alike. Sea hit own reduce should voice.",
+    "price": "₹ 1130",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 93",
+    "category": "Helmet",
+    "image": "https://plus.unsplash.com/premium_photo-1722122222814-7f8349fe2ff4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNyaWNrZXQlMjBwbGF5ZXIlMjBoZWxtZXR8ZW58MHx8MHx8fDA%3D         ",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Good all would research.",
+    "price": "₹ 4577",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 94",
+    "category": "Gloves",
+    "image": "    https://plus.unsplash.com/premium_photo-1721963696886-9b4222b8e333?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y3JpY2tldCUyMGdsb3Zlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Suggest late protect evidence.",
+    "price": "₹ 5529",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Gloves 95",
+    "category": "Gloves",
+    "image": " https://media.istockphoto.com/id/1249811051/photo/a-boy-in-cricket-uniform-and-wearing-keeper-gloves-with-hold-leather-ball-and-doing-practice.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ay8r1HVT4BjQQYCZN4SnhVqujlZpW5HHoh88JGDwHW0=    ",
+    "description": "High-quality leather gloves with excellent grip and breathable mesh, perfect for long innings and sweaty conditions. Quickly according now movement.",
+    "price": "₹ 5199",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Shoes 96",
+    "category": "Shoes",
+    "image": " https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmlrZSUyMHNob2VzfGVufDB8fDB8fHww ",
+    "description": "Performance cricket shoes with superior traction, breathable upper, and reinforced toe for fast-paced action. Large plan foreign around page.",
+    "price": "₹ 2603",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Pad 97",
+    "category": "Pad",
+    "image": " https://plus.unsplash.com/premium_photo-1722086350831-3cc30b7d68a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3JpY2tldCUyMHBhZHxlbnwwfHwwfHx8MA%3D%3D    ",
+    "description": "Durable and comfortable batting pads offering maximum protection with lightweight foam and ergonomic design. Sea many their mother great.",
+    "price": "₹ 5222",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Balls 98",
+    "category": "Ball",
+    "image": "https://plus.unsplash.com/premium_photo-1721963697301-0ea48114e7f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3JpY2tldCUyMHBsYXllciUyMGJhbGx8ZW58MHx8MHx8fDA%3D         ",
+    "description": "Top-grade leather cricket balls offering perfect bounce, seam retention, and long-lasting performance. Important quite tax walk quite.",
+    "price": "₹ 3102",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Bat 99",
+    "category": "Bat",
+    "image": "https://media.istockphoto.com/id/157310793/photo/cricketer-playing-a-shot.webp?a=1&b=1&s=612x612&w=0&k=20&c=PkPEK2CK-ENhaJqU0YDtiZJFl7Yz1MQm99LVcYYkEk8=",
+    "description": "Premium English Willow cricket bat designed for power-hitting and balance, offering exceptional control and lightweight feel. Be make buy rest.",
+    "price": "₹ 2928",
+    "brand": "Virat Elite Series"
+  },
+  {
+    "name": "Virat Pro Helmet 100",
+    "category": "Helmet",
+    "image": "https://media.istockphoto.com/id/522183001/photo/confident-in-his-batting-ability.webp?a=1&b=1&s=612x612&w=0&k=20&c=_800-v5YkHU0hWAbqYiIdzA8lVQYpi-Ltd6iIoa8qJw=",
+    "description": "Strong polycarbonate cricket helmet with inner foam padding and grill for top-tier head protection. Race unit lose house.",
+    "price": "₹ 3377",
+    "brand": "Virat Elite Series"
+  }
+]
