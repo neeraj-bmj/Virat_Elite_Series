@@ -13,7 +13,7 @@ const Navbar = () => {
         navigate("/login");
     }
   return (
-    <div className='NavbarContainer w-full h-auto md:h-[15vh] bg-gray-800 text-white flex flex-col md:flex-row justify-between items-center sticky top-0 z-[1000] px-4 md:px-10 py-4 md:py-10'>
+    <div className='NavbarContainer w-full h-auto md:h-[15vh] bg-gray-800 text-white flex flex-col md:flex-row justify-between items-center sticky top-0 z-[1000] px-4 md:px-10 py-4 md:py-15'>
       
       {/* navbar part first */}
       <div className="logoPart flex flex-col md:flex-row gap-2 md:gap-5 items-center">

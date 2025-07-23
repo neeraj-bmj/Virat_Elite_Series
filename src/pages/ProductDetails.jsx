@@ -11,7 +11,7 @@ const ProductDetails = () => {
   console.log(product);
 
   return (
-    <div className="min-h-screen bg-gray-600 p-6 md:p-12">
+    <div className="min-h-auto bg-gray-600 p-6 md:p-12">
       <div className="max-w-6xl mx-auto bg-gray-500 shadow-xl rounded-lg overflow-hidden  hover:scale-105 transition-all duration-300 ease-in-out">
         {/* This is Product Image and Information */}
         <div className="grid md:grid-cols-2 gap-2 md:gap-8 p-6">
