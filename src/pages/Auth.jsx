@@ -14,7 +14,7 @@ export default function Auth() {
     e.preventDefault();
 
     if (!email || !password) {
-      setError("All fields are required.");
+      setError("All fields are required to filled data.");
       toast.error('Please fill vaild information.')
       return;
     }

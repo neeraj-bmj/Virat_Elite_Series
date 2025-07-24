@@ -1,6 +1,5 @@
 import { lazy } from "react";
 import { useNavigate, NavLink } from "react-router-dom";
-import { useForm } from "react-hook-form";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import TextType from'../components/TextType'
@@ -9,12 +8,6 @@ import Magnet from'../components/Magnet';
 
 
 const Home = () => {
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-  } = useForm();
-
   const navigate = useNavigate();
   const [email, setEmail] = useState("");
 
@@ -76,7 +69,7 @@ const Home = () => {
               <div className="flex justify-between pr-10 flex-col md:flex-row items-end gap-4">
                   <div></div>
                   <button
-                    onClick={handleSubmit(submitHandler)}
+                    onClick={()=>submitHandler()}
                     className="bg-rose-500 px-4 py-2 cursor-pointer rounded-md font-semibold hover:bg-rose-700 hover:scale-105 transition-all duration-300 ease-in-out"
                     >
                     ~ CLICK ME ~
@@ -139,6 +132,7 @@ const Home = () => {
           {/* here write email */}
           <input
             type="email"
+            required
             placeholder="Enter your email"
             className="w-full sm:w-2/3 border-b outline-0 px-4 py-2"
             value={email}
@@ -147,7 +141,7 @@ const Home = () => {
 
           {/* this is button */}
           <Magnet padding={50} disabled={false} magnetStrength={5}>
-            <button type="submit"
+            <button type="submit" 
               className="bg-rose-600 cursor-pointer hover:bg-rose-700 text-white px-4 py-2 rounded-md transition-all hover:scale-105 duration-300 ease-in-out">
               Subscribe
             </button>
