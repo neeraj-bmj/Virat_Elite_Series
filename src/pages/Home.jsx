@@ -5,6 +5,8 @@ import { toast } from "react-toastify";
 import TextType from'../components/TextType'
 import ScrollVelocity  from '../components/ScrollVelocity';
 import Magnet from'../components/Magnet';
+import About from "./About";
+import Contact from "./Contact";
 
 
 const Home = () => {
@@ -61,7 +63,7 @@ const Home = () => {
             The Information about Your Favourite Cricketer's Brand <br /> — <span className="rounded-lg font-semibold text-rose-400 px-2 py-1 bg-gray-900">💖 Virat Elite Series 💖</span> Sports Product.
             <br />
             <br />
-            Click the button to see more information...
+            Click the button to see more sports product...
           </p>
            
            {/* button click here go to see all products */}
@@ -72,7 +74,7 @@ const Home = () => {
                     onClick={()=>submitHandler()}
                     className="bg-rose-500 px-4 py-2 cursor-pointer rounded-md font-semibold hover:bg-rose-700 hover:scale-105 transition-all duration-300 ease-in-out"
                     >
-                    ~ CLICK ME ~
+                    ~ SHOP NOW ~
                   </button>
                </div>
             </Magnet>
@@ -119,7 +121,15 @@ const Home = () => {
 
 
 
-      {/* this is newsletter part */}
+
+      {/* this is about page  */}
+     <About/>
+
+     {/* this is from contact */}
+     <Contact/>
+
+
+           {/* this is newsletter part */}
       <div className="max-w-2xl mx-auto text-center bg-gray-700 p-8 rounded-xl shadow-lg">
         <h2 className="text-4xl font-bold mb-4">Subscribe to Our Newsletter</h2>
         <p className="text-gray-300 mb-6">
@@ -148,6 +158,11 @@ const Home = () => {
           </Magnet>
         </form>
       </div>
+
+
+
+
+
     </div>
   );
 };
